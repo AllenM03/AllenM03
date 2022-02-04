@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AllenM03
 - 👀 I’m interested in learning front end development and expanding my knowledge in this exciting field!
 - 🌱 I’m currently learning HTML, CSS , and Java at UNC coding bootcamp.
-- 💞️ I’m looking to collaborate on front end developing.
+- 💞️ I’m looking to collaborate on front end developing HTML,CSS,JAVASCRIPT.
 - 📫 How to reach me email me at almcbroombey@hotmail.com
 
 <!---
