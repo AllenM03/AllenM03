@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AllenM03
-- 👀 I’m interested in learning front end development and expanding my knowledge in this exciting field!
-- 🌱 I’m currently learning HTML, CSS , and Java at UNC coding bootcamp.
+👋 Hi, I’m Allen! For 15 years I have specialized in graphic design and print production.
+- 🌱 I’m currently learning HTML, CSS , and JavaScript at UNC coding bootcamp.
 - 💞️ I’m looking to collaborate on Work opportunities, Full Stack Developing, HTML, CSS, and JAVASCRIPT.
 - 📫 Email me at allenmcbroombey@gmail.com
 
