@@ -1,4 +1,4 @@
-👋 Hi, I’m Allen! For 15 years I have specialized in graphic design and print production.
+-👋 Hi, I’m Allen! For 15 years I have specialized in graphic design and print production.
 - 🌱 I’m currently learning HTML, CSS , and JavaScript at UNC coding bootcamp.
 - 💞️ I’m looking to collaborate on Work opportunities, Full Stack Developing, HTML, CSS, and JAVASCRIPT.
 - 📫 Email me at allenmcbroombey@gmail.com
