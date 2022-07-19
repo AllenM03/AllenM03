@@ -1,9 +1,7 @@
--👋 Hi, I’m Allen! For 15 years I have specialized in graphic design and print production.
+👋 Hi, I’m Allen! For 15 years I have specialized in graphic design and print production.
 
-I am currently learning HTML, CSS , and JavaScript at UNC coding bootcamp.
+I am currently learning Full Stack Development at UNC coding bootcamp.
 
-
-I’m looking to collaborate on Work opportunities, Full Stack Developing, HTML, CSS, and JAVASCRIPT.
 📫 Email me at allenmcbroombey@gmail.com
 
 ## 💼 Technical Skills
@@ -27,14 +25,10 @@ I’m looking to collaborate on Work opportunities, Full Stack Developing, HTML,
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 
-## 📝 Latest Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-
 ## 📈 GitHub Stats 
 
-[![Allen's github stats](https://github-readme-stats.vercel.app/api?username=AllenM03)](https://github.com/AllenM03)
+![](https://raw.githubusercontent.com/AllenM03/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AllenM03/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenM03&layout=compact)](https://github.com/AllenM03)
 
