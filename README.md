@@ -29,6 +29,8 @@ I am currently learning Full Stack Development at UNC coding bootcamp.
 
 ![](https://raw.githubusercontent.com/AllenM03/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AllenM03/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AllenM03/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AllenM03/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenM03&layout=compact)](https://github.com/AllenM03)
 
