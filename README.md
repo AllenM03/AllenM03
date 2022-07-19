@@ -13,6 +13,8 @@ I am currently learning Full Stack Development at UNC coding bootcamp.
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-Bulma-informational?style=flat&logo=Bulma&color=5952B3)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind&color=5542B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
