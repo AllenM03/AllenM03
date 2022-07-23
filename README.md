@@ -16,7 +16,6 @@ I am a graduate of the Full Stack Development course at UNC coding bootcamp.
 ![](https://img.shields.io/badge/Style-Bulma-informational?style=flat&logo=Bulma&color=3952B3)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind&color=5542B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 
 </br>
