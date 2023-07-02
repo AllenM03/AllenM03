@@ -1,6 +1,4 @@
-👋 Hi, I’m Allen! For 15 years I have specialized in graphic design and print production.
-
-I am a graduate of the Full Stack Development course at UNC coding bootcamp.
+👋 Hi, I’m Allen! I am a graduate of the Full Stack Development course at UNC coding bootcamp.
 
 📫 Email me at allenmcbroombey@gmail.com
 
